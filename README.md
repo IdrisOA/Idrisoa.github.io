@@ -6,5 +6,7 @@ I studied Statistics as an undergraduate at the [University of Nigeria, Nsukka](
 My first exposure to Biostatistics was during my internship at the [National Agency for Food and Drug Administration & Control (NAFDAC)](https://www.nafdac.gov.ng) where I worked as a Research Assistant in the year 2015 and to date I've been contributing and improving on my skillsets in the biomedical area of statistics. 
 
 More so, my interest in statistical genetics and genomics started during my undergraduate project, I investigated cancer patients and cancer-related death cases at the University of Nigeria Teaching Hospital (UNTH), Enugu State, Nigeria using two-way MANOVA in experimental design and analysis.
-       .
+
+Here is my email for research collaboration: idrisatolagbe92@gmail.com
+      
        
