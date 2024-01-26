@@ -1,6 +1,6 @@
 # Hi, welcome to my website!
 
-![photo](pic_trulli.jpg)
+![photo](https://pic_trulli.jpg)
 
   My research interest is primarily focused on applying statistical methods (ranging from machine learning algorithms to survival analysis) for topics in statistical genetics and genomics. My ultimate goal is to become a Professor of Biostatistics, actively contributing to the design and analysis of studies that address pressing global health issues in our world. I aspire to collaborate with multidisciplinary researchers to translate statistical findings into actionable insights, thereby influencing health policies and interventions. 
                 
