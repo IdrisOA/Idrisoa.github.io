@@ -1,7 +1,5 @@
 # Hi, welcome to my website!
 
-![photo](https://pic_trulli.jpg)
-
   My research interest is primarily focused on applying statistical methods (ranging from machine learning algorithms to survival analysis) for topics in statistical genetics and genomics. My ultimate goal is to become a Professor of Biostatistics, actively contributing to the design and analysis of studies that address pressing global health issues in our world. I aspire to collaborate with multidisciplinary researchers to translate statistical findings into actionable insights, thereby influencing health policies and interventions. 
                 
 I studied Statistics as an undergraduate at the [University of Nigeria, Nsukka](https://www.unn.edu.ng/) where I graduated with a Bachelor's in Statistics advised by [Dr. Eugene C. Ukaegbu](https://scholar.google.com/citations?user=Ndk6FJUAAAAJ&hl=en).
